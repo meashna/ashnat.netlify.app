@@ -19,7 +19,7 @@ html {
     --color-light: #f4f4f4;
     --color-dark: #000000;
     --color-black: #141415;
-    --color-primary: #0051ff;
+    --color-primary: #1c768f;
     --color-primary-light: rgba(28, 99, 242, 0.12);
     --color-success: #2257c8;
     --color-warning: #ffce31;
@@ -539,7 +539,7 @@ nav .nav-container ul li a.nav-active {
 }
 
 .service-card:last-child i {
-    background: var(--color-success);
+    background: var(--color-primary);
 }
 
 .service-card h3 {
@@ -559,7 +559,7 @@ nav .nav-container ul li a.nav-active {
     color: var(--color-warning);
 }
 .service-card:last-child h3 {
-    color: var(--color-success);
+    color: var(--color-primary);
 }
 
 
@@ -774,7 +774,7 @@ form .btn {
 /* ...................Start Footer SECTJION................. */
 footer {
     padding: 1rem;
-    background: var(--color-success);
+    background: #032539;
 }
 
 .footer-container {
