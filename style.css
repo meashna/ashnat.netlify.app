@@ -665,6 +665,12 @@ nav .nav-container ul li a.nav-active {
     border-radius: 100%;
     overflow: hidden;
     border: 3px solid var(--color-warning);
+    background-color: #2257c8;
+    object-fit: cover;
+}
+
+.testimonial-img{
+    object-fit: cover;
 }
 
 .star {
